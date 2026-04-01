@@ -6,10 +6,18 @@ What was the goal for today?
 
 The goal of the day is to understand the fundamental architecture behind the Linux operating system.
 
+---
 ## What I Learned
 
 - What is Linux
 - The Linux architecture and its core components
+---
+
+## What I Practiced
+
+- To check the current kernel version installed in a particular Linux installation: `uname -r`
+- To check the Linux distribution version: `lsb_release -a`
+
 ---
 
 ## Key Takeaways
@@ -30,10 +38,11 @@ The goal of the day is to understand the fundamental architecture behind the Lin
 ## Resources
 
 - [GeeksforGeeks](https://www.geeksforgeeks.org/linux-unix/architecture-of-linux-operating-system/)
-- [Article]()
+- [Article](https://medium.com/@cnwabuisi50/unmasking-the-engine-understanding-the-linux-architecture-part-1-f1ad7d293d70)
 
 ---
 
 ## Output
 
 ![alt text](image.png)
+High-Level Architectural diagram of the Linux OS
